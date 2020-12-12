@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  11 DEC 2020 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  11 DEC 2020 19:41
 entering extended mode
 **./Trabajo_Unidad_II.tex
 (Trabajo_Unidad_II.tex
@@ -190,13 +190,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 )
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 
 (D:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 
  (D:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -212,22 +212,22 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 <./imagen/1.png, id=9, 534.49687pt x 331.2375pt>
 File: ./imagen/1.png Graphic file (type png)
 <use ./imagen/1.png>
-Package pdftex.def Info: ./imagen/1.png  used on input line 86.
+Package pdftex.def Info: ./imagen/1.png  used on input line 88.
 (pdftex.def)             Requested size: 341.43306pt x 211.60208pt.
  [2 <./imagen/1.png>]
-Overfull \hbox (6.232pt too wide) in paragraph at lines 117--119
+Overfull \hbox (6.232pt too wide) in paragraph at lines 119--121
 []\OT1/cmr/m/n/12 --------------------------------------------------------- ---
 ------------------------------------
  []
 
 
-Overfull \hbox (13.41248pt too wide) in paragraph at lines 127--129
+Overfull \hbox (13.41248pt too wide) in paragraph at lines 129--131
 []\OT1/cmr/m/n/12 --------------------------------------------------------- ---
 -----------------------imagen---
  []
 
 [3]
-Overfull \hbox (0.35706pt too wide) in paragraph at lines 146--148
+Overfull \hbox (0.35706pt too wide) in paragraph at lines 148--150
 \OT1/cmr/m/n/12 --------------------------------------------------------- -----
 -------------------------------------
  []
@@ -249,7 +249,7 @@ public/amsfonts/cm/cmbxti10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmti10.pfb><D:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Trabajo_Unidad_II.pdf (4 pages, 166796 bytes).
+Output written on Trabajo_Unidad_II.pdf (4 pages, 166818 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
